@@ -4,7 +4,7 @@ https://arxiv.org/abs/1709.08820
 Converting Your Thoughts to Text
 
 -------------------------------Language-------------------------------
-The code is written is Python. It is compatible with both 2.7 and 3.6.
+The code is written in Python. It is compatible with both versions 2.7 and 3.6.
 
 
 -------------------------------Libraries------------------------------
