@@ -1,8 +1,5 @@
-Group Number: 1
-Group Members: 1) Achal Agarwal (2015B4A70436P)
-			   2) Mayank Bhutani (2015B2A30836P)
-			   3) Vikram Waradpande (2015B4A70454P)
-
+Implementation of Paper:
+https://arxiv.org/abs/1709.08820
 
 Converting Your Thoughts to Text
 
